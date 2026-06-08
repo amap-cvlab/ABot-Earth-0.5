@@ -13,12 +13,21 @@
 
 ## 📢 Links
 
-- **Tech Report**: [tech-report.pdf](https://github.com/amap-cvlab/ABot-Earth-0.5/blob/main/tech-report.pdf)
-- **Official Website**: [https://abot-earth.amap.com/](https://abot-earth.amap.com/)
+- **Tech Report**: [📄 PDF](https://github.com/amap-cvlab/ABot-Earth-0.5/blob/main/tech-report.pdf)
+- **Website**: [🌐 Official Website](https://abot-earth.amap.com/)
+- **YouTube**: [🎥 Demo Video](https://www.youtube.com/watch?v=Qv64FpsEi2Q)
+
 
 > **Note:** For the best experience with the official website, please visit on a **desktop browser**. The website features extensive visualizations and interactive demos.
 
 ---
+
+<p align="center">
+
+https://youtu.be/Qv64FpsEi2Q
+
+</p>
+
 
 ## 📝 About
 
