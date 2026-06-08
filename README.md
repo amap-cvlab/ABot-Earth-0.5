@@ -43,4 +43,4 @@ If our work helps your research, please cite:
 
 ## 🙏 Acknowledgements
 
-This project is developed and maintained by the **Amap CV Lab** at Alibaba Group.
+This project is developed and maintained by the **Amap CV Lab** at Alibaba Group. We thank all the collaborators.
