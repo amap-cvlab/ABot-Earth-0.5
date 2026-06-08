@@ -1,5 +1,5 @@
 # ABot-Earth-0.5
-### ABot-Earth-0.5: Amap's Multimodal Geospatial Foundation Model
+### ABot-Earth-0.5: Generative 3D Earth Model
 
 [![Tech Report](https://img.shields.io/badge/Tech_Report-PDF-b31b1b.svg)](https://github.com/amap-cvlab/ABot-Earth-0.5/blob/main/tech-report.pdf)
 [![Website](https://img.shields.io/badge/Official_Website-ABot--Earth-green)](https://abot-earth.amap.com/)
@@ -25,7 +25,7 @@
 
 ## 📝 About
 
-**ABot-Earth-0.5** is a multimodal geospatial foundation model developed by the Amap CV Lab. Please refer to our [tech report](https://github.com/amap-cvlab/ABot-Earth-0.5/blob/main/tech-report.pdf) for detailed methodology, architecture, and experimental results.
+**ABot-Earth-0.5** is a generative 3D Earth model developed by the Amap CV Lab. Please refer to our [tech report](https://github.com/amap-cvlab/ABot-Earth-0.5/blob/main/tech-report.pdf) for detailed methodology, architecture, and experimental results.
 
 Visit our [official website](https://abot-earth.amap.com/) to explore rich visualizations and interactive demonstrations of the model's capabilities.
 
@@ -37,7 +37,7 @@ If our work helps your research, please cite:
 
 ```bibtex
 @techreport{abot_earth_2025,
-    title={ABot-Earth-0.5: Amap's Multimodal Geospatial Foundation Model},
+    title={ABot-Earth-0.5: Generative 3D Earth Model},
     year={2025},
     institution={Amap CV Lab, Alibaba Group},
     url={https://github.com/amap-cvlab/ABot-Earth-0.5}
