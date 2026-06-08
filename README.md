@@ -8,9 +8,6 @@
   <img src="src/fig_teaser.jpg" width="90%">
 </p>
 
----
-
-⭐ **If you find this work interesting or useful, please give us a star!** It helps others discover the project and motivates us to keep improving it.
 
 ---
 
