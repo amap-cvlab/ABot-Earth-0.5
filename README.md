@@ -1,8 +1,12 @@
 # ABot-Earth-0.5
 ### ABot-Earth-0.5: Generative 3D Earth Model
 
+
+[![Paper on Hugging Face](https://img.shields.io/badge/Paper%20on-🤗%20Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/papers/2606.09967) 
+[![Website](https://img.shields.io/badge/Official_Website-ABot--Earth-green)](https://abot-earth.amap.com/) 
 [![Tech Report](https://img.shields.io/badge/Tech_Report-PDF-b31b1b.svg)](https://github.com/amap-cvlab/ABot-Earth-0.5/blob/main/tech-report.pdf)
-[![Website](https://img.shields.io/badge/Official_Website-ABot--Earth-green)](https://abot-earth.amap.com/)
+
+
 
 <p align="center">
   <img src="src/fig_teaser.jpg" width="90%">
