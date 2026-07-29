@@ -57,3 +57,8 @@ If our work helps your research, please cite:
 ## 🙏 Acknowledgements
 
 This project is developed and maintained by the **Amap CV Lab** at Alibaba Group. We thank all the collaborators.
+
+<p align="left">
+  <img src="src/wechat.JPG" width="20%">
+</p>
+
