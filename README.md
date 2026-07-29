@@ -12,6 +12,11 @@
   <img src="src/fig_teaser.jpg" width="90%">
 </p>
 
+---
+
+## 📢 News
+* **[July 29, 2025]** 🎉 Users can now create content.
+
 
 ---
 
