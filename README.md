@@ -15,6 +15,8 @@
 ---
 
 ## 📢 News
+* **[September 10, 2026]** ABot-Earth 0.7 has been released! The official project page has been updated to use the new model, featuring improved building geometry, fewer ground holes, and a better LOD experience. Give it a try, and feel free to discuss any questions or feedback here!
+
 * **[July 29, 2025]** 🎉 Users can now create content.
 
 
