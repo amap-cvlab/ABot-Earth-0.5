@@ -61,6 +61,10 @@ If our work helps your research, please cite:
 }
 ```
 
+## Other Works from Our Team
+
+- [ABot-Recon](https://github.com/amap-cvlab/ABot-Recon)
+
 ## 🙏 Acknowledgements
 
 This project is developed and maintained by the **Amap CV Lab** at Alibaba Group. We thank all the collaborators.
